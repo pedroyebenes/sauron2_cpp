@@ -1,9 +1,9 @@
-#Sauron2 in C++
+# Sauron2 in C++
 
 Sauron 2 is a discrete event simulator build from scratch in C++.
 
 The goals of this project are:
-* Apply the TDD (test-driven development) principles.
+* Apply the TDD (test-driven development) principles using google test.
 * Develop using clean code concepts.
 * Learn and use C++14 features.
 * Learn and use CMake.
